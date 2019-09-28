@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace SchoolApplication.DataBase
+{
+    public class Subscriber :IUser
+    {
+        /// <summary>
+        /// идентификатор
+        /// </summary>
+        public Guid Id { get; set; }
+        /// <summary>
+        /// роль подписчика
+        /// </summary>
+        public Role Role { get; set; }
+        /// <summary>
+        /// имя подписчика
+        /// </summary>
+        public string DiscordName { get; set; }
+    }
+}

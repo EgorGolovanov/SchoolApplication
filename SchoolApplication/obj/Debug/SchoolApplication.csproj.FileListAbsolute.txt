@@ -1,0 +1,46 @@
+E:\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.exe.config
+E:\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.exe
+E:\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.pdb
+E:\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.dll
+E:\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.SqlServer.dll
+E:\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.xml
+E:\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.SqlServer.xml
+E:\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.csprojResolveAssemblyReference.cache
+E:\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.csproj.CoreCompileInputs.cache
+E:\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.exe
+E:\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.pdb
+D:\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.exe.config
+D:\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.exe
+D:\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.pdb
+D:\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.dll
+D:\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.SqlServer.dll
+D:\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.xml
+D:\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.SqlServer.xml
+D:\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.csprojAssemblyReference.cache
+D:\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.csproj.CoreCompileInputs.cache
+D:\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.csproj.CopyComplete
+D:\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.exe
+D:\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.pdb
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.exe.config
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.exe
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.pdb
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.dll
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.xml
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.csprojResolveAssemblyReference.cache
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.csproj.CoreCompileInputs.cache
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.exe
+C:\Users\egorg\Desktop\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.pdb
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.exe.config
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.exe
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\bin\Debug\SchoolApplication.pdb
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.dll
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.xml
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.csprojAssemblyReference.cache
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.csproj.CoreCompileInputs.cache
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.csproj.CopyComplete
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.exe
+C:\Users\egorg\OneDrive\Рабочий стол\SchoolApplication\SchoolApplication\obj\Debug\SchoolApplication.pdb

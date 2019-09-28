@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2E862766-8881-47D1-A5CB-2BD7F64E8BB5}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>SchoolApplication</RootNamespace>
+    <AssemblyName>SchoolApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net40\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataBase\Admin.cs" />
+    <Compile Include="DataBase\AnswersForContent.cs" />
+    <Compile Include="DataBase\Chanell.cs" />
+    <Compile Include="DataBase\ClassWorkContent.cs" />
+    <Compile Include="DataBase\Command.cs" />
+    <Compile Include="DataBase\Contest.cs" />
+    <Compile Include="DataBase\ContestContent.cs" />
+    <Compile Include="DataBase\Course.cs" />
+    <Compile Include="DataBase\FreeContentSchedule.cs" />
+    <Compile Include="DataBase\Homework.cs" />
+    <Compile Include="DataBase\HomeworkContent.cs" />
+    <Compile Include="DataBase\Interface\IChanell.cs" />
+    <Compile Include="DataBase\Interface\IContent.cs" />
+    <Compile Include="DataBase\Interface\IRating.cs" />
+    <Compile Include="DataBase\Interface\ISubject.cs" />
+    <Compile Include="DataBase\Interface\IUser.cs" />
+    <Compile Include="DataBase\Interface\IWorkTime.cs" />
+    <Compile Include="DataBase\Lottery.cs" />
+    <Compile Include="DataBase\Mentor.cs" />
+    <Compile Include="DataBase\MentorsRating.cs" />
+    <Compile Include="DataBase\MentorsWorkTime.cs" />
+    <Compile Include="DataBase\Methodist.cs" />
+    <Compile Include="DataBase\Notification.cs" />
+    <Compile Include="DataBase\Passerby.cs" />
+    <Compile Include="DataBase\Quiz.cs" />
+    <Compile Include="DataBase\QuizContent.cs" />
+    <Compile Include="DataBase\Role.cs" />
+    <Compile Include="DataBase\Schedule.cs" />
+    <Compile Include="DataBase\StudentsSchedule.cs" />
+    <Compile Include="DataBase\DBContext\SchoolDBEntities.cs" />
+    <Compile Include="DataBase\Student.cs" />
+    <Compile Include="DataBase\StudentsRating.cs" />
+    <Compile Include="DataBase\Subject.cs" />
+    <Compile Include="DataBase\Subscriber.cs" />
+    <Compile Include="DataBase\Teacher.cs" />
+    <Compile Include="DataBase\TeachersWorkTime.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
