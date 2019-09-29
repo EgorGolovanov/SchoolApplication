@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс реализующий ответы к контенту
+    /// </summary>
     public class AnswersForContent
     {
         /// <summary>

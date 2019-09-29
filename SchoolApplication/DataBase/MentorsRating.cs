@@ -5,6 +5,9 @@ using System.Text;
 using SchoolApplication.DataBase.Interface;
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий рейтинговую таблицу наставников
+    /// </summary>
     public class MentorsRating : IRating<Mentor>
     {
         /// <summary>

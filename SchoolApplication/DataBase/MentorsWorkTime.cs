@@ -6,6 +6,9 @@ using SchoolApplication.DataBase.Interface;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий рабочий день для наставников
+    /// </summary>
     public class MentorsWorkTime : IWorkTime
     {
         /// <summary>

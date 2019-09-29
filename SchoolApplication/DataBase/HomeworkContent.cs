@@ -6,6 +6,9 @@ using SchoolApplication.DataBase.Interface;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий контент для домашнего задания
+    /// </summary>
     public class HomeworkContent : IContent
     {
         /// <summary>

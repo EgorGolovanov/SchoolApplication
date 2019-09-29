@@ -6,6 +6,9 @@ using SchoolApplication.DataBase.Interface;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий рейнговую таблицу учеников
+    /// </summary>
     public class StudentsRating : IRating<Student>
     {
         /// <summary>

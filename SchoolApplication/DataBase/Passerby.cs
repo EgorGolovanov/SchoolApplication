@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс реализующий пользователя "прохожий"
+    /// </summary>
     public class Passerby : IUser
     {
         /// <summary>

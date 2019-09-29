@@ -6,8 +6,14 @@ using System.Data.Entity;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс реализующий пользователя "администратор"
+    /// </summary>
     public class Admin : IUser
     {
+        /// <summary>
+        /// идентификатор
+        /// </summary>
         public Guid Id { get; set; }
         /// <summary>
         /// имя администратора

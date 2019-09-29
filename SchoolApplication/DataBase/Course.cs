@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий многопредметный учебный курс
+    /// </summary>
     public class Course
     {
         /// <summary>

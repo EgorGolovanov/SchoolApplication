@@ -6,6 +6,9 @@ using SchoolApplication.DataBase.Interface;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий контент для простой предметной викторины
+    /// </summary>
     public class QuizContent : IContent
     {
         /// <summary>

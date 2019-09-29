@@ -2,10 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using SchoolApplication.DataBase.Interface;
 
 namespace SchoolApplication.DataBase
 {
-    public class Chanell
+    /// <summary>
+    /// класс реализующий представление канала
+    /// </summary>
+    public class Chanell : IChanell
     {
         /// <summary>
         /// идентификатор

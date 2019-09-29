@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс реализующий пользователя "подписчик"
+    /// </summary>
     public class Subscriber :IUser
     {
         /// <summary>

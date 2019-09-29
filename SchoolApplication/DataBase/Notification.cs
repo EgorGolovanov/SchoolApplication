@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий структуру уведомлений
+    /// </summary>
     public class Notification
     {
         /// <summary>

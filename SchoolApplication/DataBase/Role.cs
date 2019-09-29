@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс реализующий роли пользователей
+    /// </summary>
     public class Role
     {
         /// <summary>

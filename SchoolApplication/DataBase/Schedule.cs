@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий информацию содержащуююся в расписании
+    /// </summary>
     public class Schedule
     {
         /// <summary>

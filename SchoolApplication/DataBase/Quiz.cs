@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий обычную предметную викторину
+    /// </summary>
     public class Quiz
     {
         /// <summary>

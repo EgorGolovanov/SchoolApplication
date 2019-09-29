@@ -6,6 +6,9 @@ using System.Data.Entity;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс реализующий пользователя "ученик"
+    /// </summary>
     public class Student : IUser
     {
         /// <summary>

@@ -6,6 +6,9 @@ using SchoolApplication.DataBase.Interface;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий учебную дисциплину
+    /// </summary>
     public class Subject : ISubject
     {
         

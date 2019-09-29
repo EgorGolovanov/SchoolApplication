@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий структуру домашнего задания
+    /// </summary>
     public class Homework
     {
         /// <summary>

@@ -7,16 +7,12 @@ using System.Data.Entity;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий общий вид базы данных
+    /// </summary>
     public class SchoolDBEntities : DbContext
     {
-        /// <summary>
-        /// НЕ ЗАБЫТь ДОБАВИТЬ СРЕДНЮЮ ОЦЕНКУ ДЛЯ НАСТАВНИКОВ
-        /// РЕЙТИНГ НАСТАВНИКОВ
-        /// ПРИДУМАТЬ КАК РЕАЛИЗОВАТЬ ВОПРОС В ОТВЕТАХ КОНТЕНТА
-        /// ПРОЧИТАТЬ ПРО РОЛЬ
-        /// </summary>
-        public SchoolDBEntities() : base("DbConnection") { } //вынести в отдельную папку 
-
+        public SchoolDBEntities() : base("DbConnection") { } 
         public virtual DbSet<Admin> Admin { get; set; }
         public virtual DbSet<AnswersForContent> AnswerForContent { get; set; }
         public virtual DbSet<Chanell> Chanell { get; set; }
@@ -45,9 +41,6 @@ namespace SchoolApplication.DataBase
         public virtual DbSet<Subject> Subject { get; set; }
         public virtual DbSet<Subscriber> Subscriber {get;set;}
         public virtual DbSet<Teacher> Teacher { get; set; }
-        public virtual DbSet<TeachersWorkTime> TeachersWorkTime { get; set; }
-        
-        
-
-}
+        public virtual DbSet<TeachersWorkTime> TeachersWorkTime { get; set; }  
+    }
 }

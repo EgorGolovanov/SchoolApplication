@@ -6,6 +6,9 @@ using SchoolApplication.DataBase.Interface;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс реализующий пользователя "наставник"
+    /// </summary>
     public class Mentor : IUser
     {
         /// <summary>

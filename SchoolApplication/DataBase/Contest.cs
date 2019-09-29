@@ -5,6 +5,9 @@ using System.Text;
 
 namespace SchoolApplication.DataBase
 {
+    /// <summary>
+    /// класс представляющий сложную предметную викторину
+    /// </summary>
     public class Contest
     {
         /// <summary>
